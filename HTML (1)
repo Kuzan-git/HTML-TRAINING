@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My first website</title>
+</head>
+<body>
+
+<h1>LEARN ENGLISH</h1>
+<p>THIS IS THE WEB PAGE OF ALI CAMARA</p>
+
+<h2><b><u>PRINT = HELLO WORLD</u></b></h2>
+
+<h3>KUMALALA SAVESTA</h3>
+
+<img src="https://sportsogood.fr/wp-content/uploads/2021/12/crampons-foot.png" alt="Football">
+
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwiXmQKNuUl_y7wKBUq8ewvetX-aF8Hqh5qbZShIHMaqIqUz3hjMUhFU&s=10" target="_blank">
+Voir l’image
+</a>
+
+</body>
+</html>
